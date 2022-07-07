@@ -18,4 +18,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOKKAMONI&langs_count=3&layout=compact&theme=dark)](https://github.com/SEOKKAMONI/SEOKKAMONI)
