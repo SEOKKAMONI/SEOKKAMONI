@@ -1,5 +1,4 @@
 <h2>Hi, I'm SEOKJIN 👋</h2>
-<img src="https://www.usjournal.kr/news/data/20190626/p1065581218362228_160_thum.jpg">
 <h3>🍀 Skills 🍀</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
