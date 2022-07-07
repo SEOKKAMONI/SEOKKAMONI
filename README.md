@@ -1,5 +1,5 @@
 <h2>Hi, I'm SEOKJIN 👋</h2>
-<h3>🍀 Studying 🍀</h3>
+<h3>🍀 Skills 🍀</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
