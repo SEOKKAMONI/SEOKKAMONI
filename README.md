@@ -1,4 +1,4 @@
-<h2>Hi, I'm SEOKJIN 👋</h2>
+<h2>Hi, I'm SEOKJIN👋</h2>
 <h3>🍀 Skills 🍀</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
