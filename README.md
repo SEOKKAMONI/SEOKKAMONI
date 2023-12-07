@@ -4,5 +4,6 @@
 
 ### Contribution
 - [toss/slash](https://github.com/toss/slash)
+- [channel-io/bezier-react](https://github.com/channel-io/bezier-react)
 - [suspensive](https://github.com/suspensive/react)
 - [morethan-log](https://github.com/morethanmin/morethan-log)
