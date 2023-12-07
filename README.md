@@ -3,7 +3,6 @@
 끊임없이 성장에 대해 생각하고 고민하며 지속적으로 학습하고 있습니다.
 
 ### Contribution
-- [toss/slash](https://github.com/toss/slash/commits?author=SEOKKAMONI)
-- [channel-io/bezier-react](https://github.com/channel-io/bezier-react/commits?author=SEOKKAMONI)
+- [toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+author%3ASEOKKAMONI+is%3Aclosed)
+- [channel-io/bezier-react](https://github.com/channel-io/bezier-react/pulls?q=is%3Apr+author%3ASEOKKAMONI+is%3Aclosed)
 - [suspensive](https://github.com/suspensive/react/commits?author=SEOKKAMONI)
-- [morethan-log](https://github.com/morethanmin/morethan-log/commits?author=SEOKKAMONI)
