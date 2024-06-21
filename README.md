@@ -2,7 +2,13 @@
 
 [이력서](https://www.rallit.com/hub/resumes/1139662/%EA%B9%80%EC%84%9D%EC%A7%84) | [포트폴리오](https://outrageous-chip-b47.notion.site/3b8090a42fc644ac8115123c95b98c50?pvs=74)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SEOKKAMONI)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/SEOKKAMONI"
+  width="600"
+  height="300"
+/>
+</a>
 
 ---
 
