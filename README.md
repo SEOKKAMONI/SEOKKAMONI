@@ -17,3 +17,4 @@
 - [toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+author%3ASEOKKAMONI+is%3Aclosed)
 - [channel-io/bezier-react](https://github.com/channel-io/bezier-react/pulls?q=is%3Apr+author%3ASEOKKAMONI+is%3Aclosed)
 - [Tanstack/query](https://github.com/Tanstack/query/commits?author=SEOKKAMONI)
+- [ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info/commits?author=SEOKKAMONI)
